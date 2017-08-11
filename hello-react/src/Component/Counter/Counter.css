@@ -1,0 +1,11 @@
+.box-counter {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.btn-counter {
+  background-color: #222;
+  color: #fff;
+}
+
